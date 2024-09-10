@@ -1,6 +1,5 @@
 ## Kim Miso
 
----
 <!--
 **kim-miso/kim-miso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ##My Stack
-<img src="https://img.shields.io/badge/html-#E64C18?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-E64C18?style=flat-square&logo=HTML&logoColor=white"/>
