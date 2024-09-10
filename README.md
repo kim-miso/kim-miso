@@ -1,5 +1,7 @@
 ## Kim Miso
-안녕하세요. 개발을 이제 막 배우기 시작한 신입 개발자 입니다.
+안녕하세요. 
+<br>
+개발을 이제 막 배우기 시작한 신입 개발자 입니다.
 <!--
 **kim-miso/kim-miso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
