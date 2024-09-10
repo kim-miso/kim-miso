@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##My Stack
+## My Stack
+<br>
 <br>
 <img src="https://img.shields.io/badge/html-E64C18?style=flat-square&logo=HTML&logoColor=white"/>
